@@ -7,7 +7,6 @@
 
 - 💬 Ask me about **Kubernetes, Docker, Linux, AWS Cloud**
 
-- 📫 How to reach me **ahmedwaldara@gmail.com**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
