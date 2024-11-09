@@ -1,8 +1,8 @@
 <h1 align="center">Hi 👋, I'm Ahmed Waldra</h1>
-<h3 align="center">A passionate DevOps Engineer</h3>
+<h3 align="center"> A passionate DevOps Engineer</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=waldra&label=Profile%20views&color=0e75b6&style=flat" alt="waldra" /> </p>
-
+<img align="right" alt="Coding" width="400" src="https://raw.githubusercontent.com/waldra/waldra/main/DevSecOps-Animation.gif">
 - 🌱 I’m currently learning **AI/ML Learning and DevSecOps**
 
 - 💬 Ask me about **Kubernetes, Docker, Linux, AWS Cloud**
