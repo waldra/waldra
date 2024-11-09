@@ -5,7 +5,7 @@
 
 - 🌱 I’m currently learning **AI/ML Learning and DevSecOps**
 
-- 💬 Ask me about **Kubernetes, Docker, Linux**
+- 💬 Ask me about **Kubernetes, Docker, Linux, AWS Cloud**
 
 - 📫 How to reach me **ahmedwaldara@gmail.com**
 
